@@ -124,3 +124,10 @@ Just execute `scripts/create-and-seed.sql` again. It drops and recreates the dem
 ## Notes
 
 This is an educational demo. Some queries are intentionally bad so you can see the difference in logs and timings.
+
+## Suggested article section
+
+You can use this project as a downloadable companion for an article titled:
+
+**How to Optimize LINQ Queries in C#: Complete Performance, Logging & Diagnostics Guide:**
+https://pkey.info/knowledge-base/optimize-linq-queries-csharp-performance/
